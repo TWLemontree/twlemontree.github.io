@@ -1,5 +1,5 @@
 ---
-title: 将hexo博客备份至github.md
+title: 将hexo博客备份至GitHub
 date: 2018-02-25 11:11:34
 tags: hexo
 ---
